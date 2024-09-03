@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IngredMartins
 - 👀 I’m interested in DevSecOps
-- 🌱 I’m currently learning Functions 
+- 🌱 I’m currently learning...
 - 📫 How to reach me ingredsilva909@gmail.com
 - ⚡ Fun fact: I want to be a Cybersecurity programmer
 - 
